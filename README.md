@@ -6,7 +6,7 @@ Setup your Build Environment and related dependencies from [HERE](https://source
 #
 ### 2. Initialize Xtended source
 ~~~bash
-repo init -u https://github.com/Project-Xtended/manifest.git -b xt
+repo init -u https://github.com/Noob-214/manifest.git -b xt
 ~~~
 #
 ### 3. Sync the repository ###
